@@ -1,0 +1,1 @@
+zed_interfaces/Quaternion global_root_orientation

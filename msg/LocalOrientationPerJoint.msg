@@ -1,0 +1,1 @@
+zed_interfaces/Quaternion[34] local_orientation

@@ -75,6 +75,9 @@ set(MSG_FILES
     "msg/Skeleton3D.msg"
     "msg/DepthInfoStamped.msg"
     "msg/PlaneStamped.msg"
+    "msg/GlobalRootOrientation.msg"
+    "msg/LocalOrientationPerJoint.msg"
+    "msg/Quaternion.msg"
 )
 
 set(SRV_FILES

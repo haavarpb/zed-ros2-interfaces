@@ -64,3 +64,7 @@ zed_interfaces/Skeleton2D skeleton_2d
 
 # 3D Person skeleton in world frame
 zed_interfaces/Skeleton3D skeleton_3d
+
+zed_interfaces/LocalOrientationPerJoint local_orientation_per_joint
+
+zed_interfaces/GlobalRootOrientation global_root_orientation
